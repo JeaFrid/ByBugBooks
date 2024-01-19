@@ -8,7 +8,7 @@ ByBug Book's; Deneme yazılarınızı, şiirlerinizi, kitaplarınızı, öyküle
 
 ## ByBug Book's! İndir
 
-[![Şimdi İndir](https://img.shields.io/badge/Android-Ücretsiz-orange)]([https://github.com/JeaFrid/ByBugBooks/releases/tag/download](https://github.com/JeaFrid/ByBugBooks/releases/download/download/ByBugBooks_v1-0.apk))  [![Şimdi İndir](https://img.shields.io/badge/Windows-Ücretsiz-orange)](https://github.com/JeaFrid/ByBugBooks/releases/tag/download)
+[![Şimdi İndir](https://img.shields.io/badge/Android-Ücretsiz-orange)](https://github.com/JeaFrid/ByBugBooks/releases/download/download/ByBugBooks_v1-0.apk)  [![Şimdi İndir](https://img.shields.io/badge/Windows-Ücretsiz-orange)](https://github.com/JeaFrid/ByBugBooks/releases/tag/download)
 [![Şimdi İndir](https://img.shields.io/badge/Web-Ücretsiz-orange)](https://github.com/JeaFrid/ByBugBooks/releases/tag/download)  [![Şimdi İndir](https://img.shields.io/badge/Tüm%20Platformlar-İncele-orange)](https://github.com/JeaFrid/ByBugBooks/releases/tag/download)
 
 ## Bize Ulaş
